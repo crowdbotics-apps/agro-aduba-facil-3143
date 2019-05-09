@@ -1,0 +1,3 @@
+rootProject.name = 'agro_aduba_facil_3143'
+
+include ':app'

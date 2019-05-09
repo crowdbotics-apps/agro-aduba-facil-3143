@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT agro_aduba_facil_3143.wsgi:application
